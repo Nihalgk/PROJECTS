@@ -1,2 +1,0 @@
-# PROJECTS
-Data Science projects 
